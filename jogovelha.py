@@ -1,3 +1,5 @@
+# Criado por Gianlucca Fadiga
+
 # Importar Random
 import random
 
