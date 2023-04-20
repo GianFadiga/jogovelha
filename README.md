@@ -17,10 +17,11 @@ O jogo pode ser jogado como "Jogador vs Jogador" ou "Jogador vs Máquina"
 
 ## Funções Utilizadas
 As seguintes funções são utilizadas na implementação deste jogo:
-- `display_board()`: Exibe o tabuleiro do jogo da Velha na interface de linha de comando.
-- `play_game()`: A função principal que lida com a lógica e o fluxo do jogo.
-- `handle_turn(player)`: Lida com a vez do jogador e coloca sua jogada no tabuleiro.
-- `check_rows()`, `check_columns()`, `check_diagonals()`: Funções auxiliares que verificam o tabuleiro em busca de uma condição de vitória.
+- `mostrar()`: Exibe o tabuleiro do jogo da Velha na interface de linha de comando.
+- `ganhador()`: Verifica se houve um ganhador no turno atual.
+- `jogador1()`: Realiza os inputs da jogada do jogador1 no tabuleiro.
+- `jogador2()`: Realiza os inputs da jogada do jogador2 no tabuleiro.
+- `maquina()`: Realiza os inputs da jogada da máquina que é gerada de forma aleatória.
 
 ## Contribuição
 Contribuições são sempre bem-vindas! Se você tiver alguma sugestão ou correção a fazer, sinta-se à vontade para abrir uma issue ou um pull request.
