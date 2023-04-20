@@ -28,3 +28,4 @@ Contribuições são sempre bem-vindas! Se você tiver alguma sugestão ou corre
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
+👨‍💻 Desenvolvido por GianFadiga.
